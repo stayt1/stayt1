@@ -12,6 +12,5 @@ You can click the Preview link to take a look at your changes.
 ![Stayt1's GitHub stats](https://github-readme-stats.vercel.app/api/?username=stayt1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stayt1)](https://github.com/stayt1/github-readme-stats)
 
 
