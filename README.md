@@ -1,5 +1,5 @@
-<h1 align="center">Hi , I'm Tao YANG <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
-B.S, M.S in Data Science and Computer Science.
+<h1 align="center">Hi , I'm Tao YANG </h1>
+<h5 align="center">B.S, M.S in Data Science and Computer Science.</h5>
 
 ### 🛠 &nbsp;Tech Stack
 #### 🖥️ ML/DL
