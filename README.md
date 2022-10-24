@@ -31,7 +31,7 @@
 <p align="center">
 <a href="https://github.com/azizovrafael">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stayt1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stayt1&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stayt1"/>
 </a>
 </p>
 
@@ -39,6 +39,6 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/azizovrafael"><img alt="Rafael's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=stayt1&custom_title=Rafael's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/azizovrafael"><img alt="Rafael's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=stayt1&custom_title=stayt1's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
