@@ -34,11 +34,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stayt1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-
-
-
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/azizovrafael"><img alt="Rafael's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=stayt1&custom_title=stayt1's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-  
