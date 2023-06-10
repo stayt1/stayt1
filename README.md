@@ -1,8 +1,7 @@
 <h1 align="center">Hi , I'm Tao YANG </h1>
 <h5 align="center">B.S, M.S in Data Science and Computer Science.</h5>
 
- <!-- --> 
-### 🛠 &nbsp;Tech Stack
+ <!-- ### 🛠 &nbsp;Tech Stack
 #### 🖥️ ML/DL
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
@@ -33,5 +32,4 @@
 <a href="https://github.com/azizovrafael">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stayt1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-</p>
- <!-- --> 
+</p> --> 
