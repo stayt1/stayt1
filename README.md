@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Tao YANG </h1>
 <h5 align="center">B.S, M.S in Data Science and Computer Science.</h5>
-
+<h6 align="center">If you get tired, learn to rest, not to quit.
  <!-- ### 🛠 &nbsp;Tech Stack
 #### 🖥️ ML/DL
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
